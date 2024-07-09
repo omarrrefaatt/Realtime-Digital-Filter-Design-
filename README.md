@@ -76,11 +76,16 @@ To run this application, follow these steps:
 - **Enabling/Disabling Filters**: Use the interface to enable or disable selected all-pass filters to achieve the desired phase correction.
 
 ## Screenshots
-<img width="1204" alt="Screenshot 2024-07-09 at 6 17 16 PM" src="https://github.com/omarrrefaatt/Realtime-Digital-Filter-Design-/assets/119802537/02f6fc12-7c95-44ec-b327-3276d62dc3a7">
+<img width="1200" alt="Screenshot 2024-07-09 at 6 25 55 PM" src="https://github.com/omarrrefaatt/Realtime-Digital-Filter-Design-/assets/119802537/16e9b68e-e94b-4ba1-8d10-0cd1206072c6">
+
 ---
-<img width="1440" alt="Screenshot 2024-07-09 at 6 16 33 PM" src="https://github.com/omarrrefaatt/Realtime-Digital-Filter-Design-/assets/119802537/61595785-cf9c-41a9-b11d-ca5d104723f3">
+<img width="1204" alt="Screenshot 2024-07-09 at 6 17 16 PM" src="https://github.com/omarrrefaatt/Realtime-Digital-Filter-Design-/assets/119802537/02f6fc12-7c95-44ec-b327-3276d62dc3a7">
+
+
 ---
 <img width="1201" alt="Screenshot 2024-07-09 at 6 17 53 PM" src="https://github.com/omarrrefaatt/Realtime-Digital-Filter-Design-/assets/119802537/c8a64423-30d7-4d88-9676-172d719fef9a">
+
+
 ## Contributing
 
 
